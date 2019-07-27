@@ -8,5 +8,6 @@ package com.bjpowernode.domain;
  */
 public class Person {
    //1
+    //2
 
 }
