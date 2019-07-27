@@ -9,5 +9,6 @@ package com.bjpowernode.domain;
 public class Person {
     private String name;
     private Integer id;
-    private boolean flag；
+    private boolean flag;
+    private String address;
 }
