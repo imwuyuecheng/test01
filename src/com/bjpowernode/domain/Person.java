@@ -7,8 +7,6 @@ package com.bjpowernode.domain;
  * @create 2019-07-27-15-15:05
  */
 public class Person {
-    private String name;
-    private Integer id;
-    private boolean flag;
-    private String address;
+   //1
+
 }
